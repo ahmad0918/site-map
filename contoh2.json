@@ -1,0 +1,186 @@
+{
+    "recruitment_otp_session": "0Vj9Cse1SReWryu2vbEL9F2OwXSrlsbGTLqAZbBvjHM=",
+    "step1": {
+        "apply_job": "IT Product Owner",
+        "fullname": "hilmy",
+        "gender": "Perempuan",
+        "birthplace": "Jakarta",
+        "birthdate": "1996-06-03",
+        "citizenship": "Indonesia",
+        "religion": "Muslim",
+        "mbl_phoneno": "085939802204",
+        "email": "ahmadhilmy0918@gmail.com",
+        "nik": "3562722717677274",
+        "no_sim_c": "123456789012",
+        "no_sim_a": "",
+        "address": "Jl. Menuju Kebenaran 04",
+        "rt_rw": "04/03",
+        "subdistrict": "Jagakarsa",
+        "district": "Tanjung Barat",
+        "city_regency": "Jakarta Selatan",
+        "province": "DKI Jakarta",
+        "postalcode": "12310",
+        "home_phoneno": "021567829373",
+        "home_status": "Milik Sendiri",
+        "is_addr_match_idcard": false,
+        "alt_address": "Jl. Kenangan Menggenang",
+        "alt_rt_rw": "10/11",
+        "alt_subdistrict": "Jatikramat",
+        "alt_district": "Pondokgede",
+        "alt_city_regency": "Kota Bekasi",
+        "alt_province": "Jawa Barat",
+        "alt_postalcode": "17411",
+        "alt_home_phoneno": "0218466444",
+        "alt_home_status": "Milik Sendiri"
+    },
+    "step2": {
+        "marriage_status": "Menikah",
+        "partner_data": {
+            "partner_name": "Tomo Budiyanto",
+            "partner_birthplace": "Jakarta",
+            "partner_birthdate": "1990-01-01",
+            "partner_job": ""
+        },
+        "child_data": [
+            {
+                "child_name": "April",
+                "child_gender": "Perempuan",
+                "child_birthdate": "2021-04-04",
+                "child_education": ""
+            },
+            {
+                "child_name": "Agus",
+                "child_gender": "Laki - laki",
+                "child_birthdate": "2022-08-04",
+                "child_education": ""
+            }
+        ],
+        "father_name": "Jono",
+        "father_birthyear": "1967",
+        "father_address": "Jl. Sanaan Dikit 23",
+        "father_education": "Diploma",
+        "father_job": "",
+        "mother_name": "Marlinah",
+        "mother_birthyear": "1974",
+        "mother_address": "Jl. Sanaan Dikit 23",
+        "mother_education": "SMA",
+        "mother_job": "",
+        "sibling_data": [
+            {
+                "sibling_name": "Adin",
+                "sibling_gender": "Perempuan",
+                "sibling_birthdate": "1995-01-02",
+                "sibling_address": "Jl. Jalan Ke Mana Kek 092",
+                "sibling_job": "Karyawan Swasta"
+            },
+            {
+                "sibling_name": "Wawan",
+                "sibling_gender": "Laki - laki",
+                "sibling_birthdate": "1999",
+                "sibling_address": "Jl. Sanaan Dikit 23",
+                "sibling_job": ""
+            }
+        ]
+    },
+    "step3": {
+        "formal_education_data": [
+            {
+                "degree": "SMU",
+                "institution_name": "SMAN 7 Jakarta",
+                "department": "IPA",
+                "institution_address": "Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",
+                "is_diploma_exist": true,
+                "institution_entry_year": "1998",
+                "institution_finished_year": "2001"
+            }
+        ],
+        "course_data": [
+            {
+                "course_topic": "Kuasai Ilmu Eknomi Makro untuk Pemula",
+                "course_range": "2 bulan",
+                "course_organizer": "Skill Academy",
+                "course_place": "Online",
+                "is_certificate_exist": true,
+                "course_sponsor": "Tidak Ada"
+            }
+        ]
+    },
+    "step4": {
+        "is_work_experience_exist": true,
+        "work_experience_data": [
+            {
+                "company_name": "PT Bussan Auto Finance",
+                "company_address": "Jalan Tanjung Barat Raya No.121 RT 14/RW 4, Kelurahan Tanjung Barat, Kecamatan Jagakarsa, Kota Jakarta Selatan, DKI Jakarta 12530",
+                "company_phoneno": "02129396000",
+                "entry_year": "2020",
+                "termination_year": "2022",
+                "company_business_type": "Financing",
+                "salary": "Rp 17.000.000",
+                "other_subsidy": "Tidak Ada",
+                "starting_position": "Software Developer",
+                "last_position": "Software Developer",
+                "employee_status": "Kontrak",
+                "resignation_reason": "Mencari pengalaman baru",
+                "job_description": "Membuat aplikasi untuk menghitung jumlah karyawan perusahaan",
+                "company_diagram_img": "data:image/png;base64,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"
+            },{
+                "company_name": "PT Bussan Auto Finance",
+                "company_address": "Jalan Tanjung Barat Raya No.121 RT 14/RW 4, Kelurahan Tanjung Barat, Kecamatan Jagakarsa, Kota Jakarta Selatan, DKI Jakarta 12530",
+                "company_phoneno": "02129396000",
+                "entry_year": "2020",
+                "termination_year": "2022",
+                "company_business_type": "Financing",
+                "salary": "Rp 17.000.000",
+                "other_subsidy": "Tidak Ada",
+                "starting_position": "Software Developer",
+                "last_position": "Software Developer",
+                "employee_status": "Kontrak",
+                "resignation_reason": "Mencari pengalaman baru",
+                "job_description": "Membuat aplikasi untuk menghitung jumlah karyawan perusahaan",
+                "company_diagram_img": "data:image/png;base64,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"
+            }
+        ],
+        "entrepreneurship": {
+            "entrepreneurship_type": "",
+            "entrepreneurship_position": "",
+            "entrepreneurship_timespan": "",
+            "entrepreneurship_description": ""
+        },
+        "expected_salary": "Rp 20.000.000"
+    },
+    "step5": {
+        "reference_data": [
+            {
+                "reference_name": "Indah Sari",
+                "reference_address": "Jl. Andong Raya",
+                "reference_phoneno": "0216578432",
+                "reference_relationship": "Rekan Kerja"
+            }
+        ],
+        "baf_reference_data": [
+            {
+                "baf_reference_name": "Dio Wisnu",
+                "baf_reference_position": "Specialist",
+                "baf_reference_branch": "Headquarter",
+                "baf_reference_familial_relation": "Sepupu"
+            }
+        ],
+        "emergency_contact_data": [
+            {
+                "contact_name": "Jono",
+                "contact_relationship": "Orang tua",
+                "contact_phoneno": "0856727276263",
+                "contact_home_phoneno": ""
+            }
+        ],
+        "instagram_account": "anisanisa",
+        "facebook_account": "Anisa",
+        "linkedin_account": "anisanisa",
+        "twitter_account": "anisanisa",
+        "tiktok_account": "anisanisa",
+        "is_congenital_disease_exist": true,
+        "disease_type": "TBC",
+        "is_criminal_history_exist": false,
+        "baf_data_usage_rights": true
+    }
+}

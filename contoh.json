@@ -1,0 +1,222 @@
+{
+    "recruitment_otp_session": "KD7cA3kQjAc0Z5uxQyRAK5UTvSg/YgcUe+nelFKAM=",
+    "step1": {
+        "apply_job": "IT",
+        "fullname": "digital A",
+        "gender": "Laki-laki",
+        "birthplace": "Jakarta",
+        "birthdate": "1991-12-12",
+        "citizenship": "Indonesia",
+        "religion": "Islam",
+        "email": "testpradana@gmail.com",
+        "nik": "1234567890987654",
+        "no_sim_a": "1234567890",
+        "no_sim_c": "0987654321",
+        "address": "jl kebeneran",
+        "rt_rw": "11/11",
+        "subdistrict": "Kalisaros",
+        "district": "pasar bo",
+        "city_regency": "jakarta keras",
+        "province": "dki jakarta",
+        "postalcode": "13790",
+        "home_phoneno": "085792095513",
+        "home_status": "ortu",
+        "alt_address": "jl kesalahan",
+        "alt_rt_rw": "22/1",
+        "alt_subdistrict": "ciheart",
+        "alt_district": "pasar bo",
+        "alt_city_regency": "jakrtaks",
+        "alt_province": "dki",
+        "alt_postalcode": "13770",
+        "alt_home_phoneno": "085782938232",
+        "alt_home_status": "ngontrak",
+        "mbl_phoneno": "085792095513",
+        "is_addr_match_idcard": false
+    },
+    "step2": {
+        "marriage_status": "Menikah",
+        "partner_data": {
+            "partner_name": "ariel tatum",
+            "partner_birthplace": "depox",
+            "partner_birthdate": "1992-12-12",
+            "partner_job": "ibu rumah tangga"
+        },
+        "child_data": [
+            {
+                "child_name": "anak pertama",
+                "child_gender": "Laki-laki",
+                "child_birthdate": "2020-12-12",
+                "child_education": "belum-sekolah_tk_sd_smp"
+            },
+            {
+                "child_name": "anak kedua",
+                "child_gender": "Perempuan",
+                "child_birthdate": "2022-12-12",
+                "child_education": "tk_sd_smp"
+            }
+        ],
+        "father_name": "ayah ku",
+        "father_birthyear": "1958",
+        "father_address": "jakartas",
+        "father_education": "SMK",
+        "father_job": "pensiun",
+        "mother_name": "ibuku",
+        "mother_birthyear": "1959",
+        "mother_address": "jakrtas juga",
+        "mother_education": "S1",
+        "mother_job": "ibu rumah tangga",
+        "sibling_data": [
+            {
+                "sibling_name": "kakak pertama",
+                "sibling_gender": "Perempuan",
+                "sibling_birthdate": "1989",
+                "sibling_address": "depox",
+                "sibling_job": "admin"
+            },
+            {
+                "sibling_name": "adik pertama",
+                "sibling_gender": "Laki-laki",
+                "sibling_birthdate": "1994",
+                "sibling_address": "bogors",
+                "sibling_job": "ngojek"
+            }
+        ]
+    },
+    "step3": {
+        "formal_education_data": [
+            {
+                "degree": "SMU",
+                "institution_name": "perusahaan pertama",
+                "department": "ips",
+                "institution_address": "jagakarsa",
+                "is_diploma_exist": true,
+                "institution_entry_year": "2006",
+                "institution_finished_year": "2009"
+            },
+            {
+                "degree": "S1",
+                "institution_name": "univ ikik",
+                "department": "hukum",
+                "institution_address": "bekesong",
+                "is_diploma_exist": false,
+                "institution_entry_year": "2009",
+                "institution_finished_year": "2013"
+            }
+        ],
+        "course_data": [
+            {
+                "course_topic": "olah raga",
+                "course_range": "sehari",
+                "course_organizer": "sportstation",
+                "course_place": "lapangan",
+                "is_certificate_exist": false,
+                "course_sponsor": "danon"
+            },
+            {
+                "course_topic": "otomotip",
+                "course_range": "2 hari",
+                "course_organizer": "yamahal",
+                "course_place": "sirkuit",
+                "is_certificate_exist": true,
+                "course_sponsor": "momogi"
+            }
+        ]
+    },
+    "step4": {
+        "is_work_experience_exist": true,
+        "work_experience_data": [
+            {
+                "company_name": "perusahaan pertama",
+                "company_address": "jagakarsa",
+                "company_phoneno": "0218724292",
+                "entry_year": "2013-12-12",
+                "termination_year": "2014-12-12",
+                "company_business_type": "finance",
+                "salary": "Rp. 5.000.000",
+                "other_subsidy": "Rp. 50.000",
+                "starting_position": "staf",
+                "last_position": "head",
+                "resignation_reason": "cari yang lebih baik",
+                "job_description": "",
+                "company_diagram_img": "",
+                "employee_status": "Outsource"
+            },
+            {
+                "company_name": "perusahaan kedua",
+                "company_address": "situ",
+                "company_phoneno": "0218739303",
+                "entry_year": "2014-12-12",
+                "termination_year": "2016-12-12",
+                "company_business_type": "bank",
+                "salary": "Rp. 9.000.000",
+                "other_subsidy": "Rp. 10.000",
+                "starting_position": "teller",
+                "last_position": "BOD",
+                "resignation_reason": "cari yng lebih baik dari sebelumnya",
+                "job_description": "",
+                "company_diagram_img": "",
+                "employee_status": "Permanent"
+            }
+        ],
+        "entrepreneurship": {
+            "entrepreneurship_type": "jualan nasduk",
+            "entrepreneurship_position": "owner",
+            "entrepreneurship_timespan": "sejam",
+            "entrepreneurship_description": "jualan di pinggir jalan"
+        },
+        "expected_salary": "Rp. 20.000.000"
+    },
+    "step5": {
+        "reference_data": [
+            {
+                "reference_name": "referansi satu",
+                "reference_address": "alamat ref di sini",
+                "reference_phoneno": "082387878787",
+                "reference_relationship": "intim"
+            },
+            {
+                "reference_name": "referensi dua",
+                "reference_address": "ref id ",
+                "reference_phoneno": "0857343434344",
+                "reference_relationship": "fren"
+            }
+        ],
+        "baf_reference_data": [
+            {
+                "baf_reference_name": "kerabat keja pertama",
+                "baf_reference_position": "pertama kerabat alamatnya",
+                "baf_reference_branch": "haki",
+                "baf_reference_familial_relation": "soulmate"
+            },
+            {
+                "baf_reference_name": "keluarga  baf",
+                "baf_reference_position": "alamat keluarga baf jagakarsa",
+                "baf_reference_branch": "india",
+                "baf_reference_familial_relation": "kandung"
+            }
+        ],
+        "emergency_contact_data": [
+            {
+                "contact_name": "darurat pertama",
+                "contact_relationship": "pacar",
+                "contact_phoneno": "085723232323",
+                "contact_home_phoneno": ""
+            },
+            {
+                "contact_name": "darurat kedua",
+                "contact_relationship": "pacar kedua",
+                "contact_phoneno": "088383828382",
+                "contact_home_phoneno": ""
+            }
+        ],
+        "instagram_account": "@instagram",
+        "facebook_account": "fb",
+        "linkedin_account": "lingin",
+        "twitter_account": "tweet",
+        "tiktok_account": "tik tods",
+        "is_congenital_disease_exist": true,
+        "disease_type": "ngantukan",
+        "is_criminal_history_exist": false,
+        "baf_data_usage_rights": true
+    }
+}
